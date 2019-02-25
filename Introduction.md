@@ -17,9 +17,6 @@ Following are topics within the security of Smart Speakers which we will continu
 
 
 ## Resources
-
-“Athlete's Foot - Topic Overview.” WebMD, 25 Sept. 2014, www.webmd.com/skin-problems-and-treatments/tc/athletes-foot-topic-overview.
-
 1. Shancang Li, Li Da Xu, Shanshan Zhao, <em>5G Internet of Things: A Survey, Journal of Industrial Information Integration (2018)</em>, doi: 10.1016/j.jii.2018.01.005
 
 2. "*(Smart) Speaking My Language: Despite Their Vast Capabilities, Smart Speakers Are All About the Music*", Nielsen, 15 February, 2019, <a href="https://www.nielsen.com/us/en/insights/news/2018/smart-speaking-my-language-despite-their-vast-capabilities-smart-speakers-all-about-the-music.html">ttps://www.nielsen.com/us/en/insights/news/2018/smart-speaking-my-language-despite-their-vast-capabilities-smart-speakers-all-about-the-music.html</a>
