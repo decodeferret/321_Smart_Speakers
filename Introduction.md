@@ -13,8 +13,25 @@ Following are topics within the security of Smart Speakers which we will continu
 3. Legal and commercial consequences of Smart Speaker data leaks and company responses
 4. Inferable user behavior from Smart Speaker network communication
 5. Securing user privacy and associated middleware technologies
-6. Future concernts, slippery slopes, and consumer protections
+6. Future concerns, slippery slopes, and consumer protections
 
+## Moodle Explorations
+7. Recent Attacks: 
+  - (https://arxiv.org/pdf/1901.04879.pdf)[https://arxiv.org/pdf/1901.04879.pdf]
+  - (http://www2.eet.unsw.edu.au/~vijay/pubs/jrnl/18tsm.pdf)[http://www2.eet.unsw.edu.au/~vijay/pubs/jrnl/18tsm.pdf]
+  - (https://scholar.princeton.edu/sites/default/files/apthorpe/files/SpyingOnTheSmartHome_arXiv.pdf)[https://scholar.princeton.edu/sites/default/files/apthorpe/files/SpyingOnTheSmartHome_arXiv.pdf]
+
+8. Mainstream perception
+  - (https://bdtechtalks.com/2018/06/05/google-home-amazon-echo-privacy-security-risks/)[https://bdtechtalks.com/2018/06/05/google-home-amazon-echo-privacy-security-risks/]
+  - (https://venturebeat.com/2018/05/30/smart-home-speakers-are-vulnerable-to-a-variety-of-attacks/)[https://venturebeat.com/2018/05/30/smart-home-speakers-are-vulnerable-to-a-variety-of-attacks/]
+  - (https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html)[https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html]
+
+9. Companion applications:
+  - (Apple Siri)[https://www.siriuserguide.com/how-to-use-siri]
+  - (Amazon Alexa)[https://www.amazon.com/b?node=17934671011]
+  - (Google Assistant)[https://assistant.google.com/]
+
+10. Speaker Tests
 
 ## Resources
 1. Shancang Li, Li Da Xu, Shanshan Zhao, <em>5G Internet of Things: A Survey, Journal of Industrial Information Integration (2018)</em>, doi: 10.1016/j.jii.2018.01.005
