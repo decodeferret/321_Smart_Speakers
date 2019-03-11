@@ -15,7 +15,7 @@ Following are topics within the security of Smart Speakers which we will continu
 5. Securing user privacy and associated middleware technologies
 6. Future concerns, slippery slopes, and consumer protections
 
-##Legal consequences of Smart Speakers
+## Legal consequences of Smart Speakers
 
 There is growing concern that the data collected by smart speakers could be used to the detriment of the user. Smart speaker producers have reassured customers that their data is only collected when they prompt the smart speaker to listen for a command. Furthermore, they have assured the public that their personal information is stored confidentially and that their personal information is secure. There have been multiple events in recent years that directly contradict these statements and prove that users should be more concerned about owning smart speakers.
 
