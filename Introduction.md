@@ -15,6 +15,17 @@ Following are topics within the security of Smart Speakers which we will continu
 5. Securing user privacy and associated middleware technologies
 6. Future concerns, slippery slopes, and consumer protections
 
+##Legal consequences of Smart Speakers
+
+There is growing concern that the data collected by smart speakers could be used to the detriment of the user. Smart speaker producers have reassured customers that their data is only collected when they prompt the smart speaker to listen for a command. Furthermore, they have assured the public that their personal information is stored confidentially and that their personal information is secure. There have been multiple events in recent years that directly contradict these statements and prove that users should be more concerned about owning smart speakers.
+
+Despite the fact that companies claim to secure user information, there is evidence to suggest that the choice might not always be in their hands. For example, in December 2015, Amazon was asked 
+to hand over user data to investigators to help solve a murder case. Amazon defended the user’s right to privacy but ultimately handed over the information when the defendant’s consent. While Amazon did fight for their user in this case, the only reason why they were able to do so was because of the first amendment. If they didn’t have a law on their side, they would’ve had to hand over the data to authorities immediately. User information is only secure as long as the courts of law don’t require companies to hand it over. 
+
+In an even more startling development, the CIA may have developed a tool to hack Samsung smart TVs. The tool was developed to turn TVs into listening devices and Samsung may have been cooperating with the government during it’s development. The entire affair was brought to light by WikiLeaks but as of this day there has been no concrete evidence that the tool actually existed. This still raises major concerns for smart speakers as they are designed to be always listening. Samsung currently has the Bixby smart speaker on the market. Federal law enforcement could use these devices to spy on their own citizens. Civilians would have to censor themselves even in the privacy of their own homes.
+
+This all leads to the fact that if the government is capable of accessing this information, so could other nefarious parties. Information collected by smart speakers could be used to blackmail individuals, steal their identities or potentially worse. There is already evidence that smart speakers are not as secure as they seem. Virtually all smart speakers on the market use some sort of encryption to transport audio files. Smart speakers are incapable of processing audio themselves so it needs to be sent to data centres for processing. The data is then sent back to the speakers themselves so they can respond appropriately. Unfortunately, it seems like hackers can garner information from the encrypted code without ever having to decrypt it. 
+
 ## Moodle Explorations
 7. Recent Attacks: 
   - (https://arxiv.org/pdf/1901.04879.pdf)[https://arxiv.org/pdf/1901.04879.pdf]
